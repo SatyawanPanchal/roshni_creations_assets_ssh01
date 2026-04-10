@@ -1,0 +1,13 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Premium Kundan Chokker",
+            "price": 1800,
+            "images": [],
+            "description": "Elegant handcrafted jewellery designed for timeless beauty and modern grace.",
+            "rating": 4.5,
+            "stock": 12
+        }
+    ]
+}
